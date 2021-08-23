@@ -1,0 +1,54 @@
+
+/*INNER PARALLAX SECTIONS (Except Intro Parallax)*/
+
+.no-parallax{
+	background-attachment: scroll !important;
+}
+
+.testimonial{
+	background: url('http://www.numero.asia/stylesheets/src="http://placehold.it/1500x1000.jpg') 0 0 no-repeat fixed;
+	background-size: cover;
+}
+.about-head{
+	background: url('http://www.numero.asia/images/gallery/Numero2012-2013_wash.jpg') 0 0 no-repeat fixed;
+	background-size: cover;
+}
+.about-bg{
+	background: url('http://www.numero.asia/images/gallery/General_960x748_05.jpg') 0 0 no-repeat fixed;
+	background-size: cover;
+}
+.page-head{
+	background: url('http://www.numero.asia/images/gallery/portfolio/Portfolio_960x748_06.jpg') 0 0 no-repeat fixed;
+	background-size: cover;
+
+}
+.works1-head{
+	background: url('http://www.numero.asia/images/gallery/01.jpg') 0 0 no-repeat fixed;
+	background-size: cover;
+}
+.works2-head{
+	background: url('http://www.numero.asia/stylesheets/src="http://placehold.it/1500x1000.jpg') 0 0 no-repeat fixed;
+	background-size: cover;
+}
+.news-head{
+	background: url('http://www.numero.asia/stylesheets/src="http://placehold.it/1500x1000.jpg') 0 0 no-repeat fixed;
+	background-size: cover;
+}
+.credits-head{
+	background: url('http://www.numero.asia/stylesheets/src="http://placehold.it/1500x1000.jpg') 0 0 no-repeat fixed;
+	background-size: cover;
+}
+.clients-head{
+	background: url('http://www.numero.asia/stylesheets/src="http://placehold.it/1500x1000.jpg') 0 0 no-repeat fixed;
+	background-size: cover;
+}
+.awards-head{
+	background: url('http://www.numero.asia/stylesheets/src="http://placehold.it/1500x1000.jpg') 0 0 no-repeat fixed;
+	background-size: cover;
+}
+.contact-head{
+	background: url('http://www.numero.asia/images/gallery/General_960x748_05.jpg') 0 0 no-repeat fixed;
+	background-size: cover;
+}
+
+

@@ -1,0 +1,97 @@
+.ms-tableCell{
+	background-color: rgba(0,0,0,0.2);
+}
+
+.ms-static-title{
+	padding-left: 80px;
+	padding-right: 80px;
+} 
+.ms-static-title a{
+            cursor: url("http://www.numero.asia/images/plus.png") 40 40, crosshair;
+            -webkit-transition: all .4s ease-in-out;
+               -moz-transition: all .4s ease-in-out;
+                -ms-transition: all .4s ease-in-out;
+                 -o-transition: all .4s ease-in-out;
+                    transition: all .4s ease-in-out;
+}
+.ms-static-title h1 {
+    font-family: "Raleway",Arial,Helvetica,sans-serif;
+    font-size: 64px;
+    font-weight: 300;
+    letter-spacing: 8px;
+    line-height: 76px;
+    text-transform: uppercase;
+}
+.ms-static-title h3 {
+	margin-top: 10px;
+}
+.ms-static-title h3 > span {
+    font-family: "Montserrat",Arial,Helvetica,sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 8px;
+    line-height: 28px;
+    padding: 7px;
+    padding-left: 15px;
+    text-transform: uppercase;
+}
+
+/*Panels - LEFT Side*/
+.left1{
+	background-image:url(http://www.numero.asia/images/gallery/NEW03A.jpg) !important;
+    background-size: cover;
+}
+.left2{
+	background-image:url(http://www.numero.asia/images/gallery/04A.jpg) !important;
+    background-size: cover;
+}
+.left3{
+	background-image:url(http://www.numero.asia/images/gallery/NEW06A.jpg) !important;
+    background-size: cover;
+}
+.left4{
+	background-image:url(http://www.numero.asia/images/gallery/Etourdissant-A.jpg) !important;
+    background-size: cover;
+}
+.left5{
+	background-image:url(http://www.numero.asia/images/gallery/06A.jpg) !important;
+    background-size: cover;
+}
+.left6{
+	background-image:url(http://www.numero.asia/images/gallery/Coco-A.jpg) !important;
+    background-size: cover;
+}
+.left7{
+    background-image:url(http://www.numero.asia/images/gallery/09A.jpg) !important;
+    background-size: cover;
+}
+
+/*Panels - RIGHT Side*/
+.right1{
+	background-image:url(http://www.numero.asia/images/gallery/NEW03B.jpg) !important;
+    background-size: cover;
+}
+.right2{
+	background-image:url(http://www.numero.asia/images/gallery/04B.jpg) !important;
+    background-size: cover;
+}
+.right3{
+	background-image:url(http://www.numero.asia/images/gallery/NEW06B.jpg) !important;
+    background-size: cover;
+}
+.right4{
+	background-image:url(http://www.numero.asia/images/gallery/Etourdissant-B.jpg) !important;
+    background-size: cover;
+}
+.right5{
+	background-image:url(http://www.numero.asia/images/gallery/06B.jpg) !important;
+    background-size: cover;
+}
+.right6{
+	background-image:url(http://www.numero.asia/images/gallery/Coco-B.jpg) !important;
+    background-size: cover;
+}
+.right7{
+    background-image:url(http://www.numero.asia/images/gallery/09B.jpg) !important;
+    background-size: cover;
+}
