@@ -47,7 +47,7 @@ $(function ($) {
     //Mobile Menu (multi level)
     $('ul.slimmenu').slimmenu({
         resizeWidth: '1200',
-        collapserTitle: 'giorgio',
+        collapserTitle: 'EventFuel',
         easingEffect:'easeInOutQuint',
         animSpeed:'medium',
     });
